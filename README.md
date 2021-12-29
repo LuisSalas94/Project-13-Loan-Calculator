@@ -34,7 +34,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Traversy Media Udemy Course
+- Traversy Media Udemy Course.
 
 
 ## 📝 License
